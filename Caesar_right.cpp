@@ -71,5 +71,4 @@ setlocale(LC_ALL, "");
        delete []stroka;
        delete []res;
    }
-   return 0;
 }
